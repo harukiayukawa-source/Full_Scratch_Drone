@@ -35,5 +35,5 @@
 
 ## 制御コード(プロポーショナルコントロール送信機：スマホアプリ側)
 - MIT App Inventorというブラウザタイプのアプリ開発ツールを用いてスマホをドローンのプロポにしました。
-- 詳細は別のリポジトリ[Example_usingMITAppInventor_Drone_Controller]()をご覧ください。
+- 詳細は別のリポジトリ[Example_usingMITAppInventor_Drone_Controller](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller)をご覧ください。
 
