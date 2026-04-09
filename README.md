@@ -19,11 +19,11 @@
 ## フレーム
 - 設計 → Fusionで設計しました。
 - 製造 → 3Dプリンタ(RAISE3D E2　ノズル径0.4mm　フィラメントPLA黒色)で造形しました。
-<br>
-[詳細はframeフォルダをご覧ください。](https://github.com/Haruki-Ayukawa/Full_Scratch_Drone/tree/main/frame)
+
+詳細は[frameフォルダ](https://github.com/Haruki-Ayukawa/Full_Scratch_Drone/tree/main/frame)をご覧ください。
 
 ## モータ
-- 部品 → 「[直径8.5mm　長さ20mm　3~5V](https://amzn.asia/d/07lUeh3T)
+- 部品 → [直径8.5mm　長さ20mm　3~5V](https://amzn.asia/d/07lUeh3T)
 - 購入 → Amazonで購入しました。
 
 ## プロペラ
