@@ -1,6 +1,7 @@
 # firmwareフォルダの中身について
 ## drone_PID_1フォルダ
-VSCode内の拡張機能「PlatformIO」を利用してコーディング・ビルド・コンパイルを行いました。
+VSCode内の拡張機能「PlatformIO」を利用してコーディング・ビルド・コンパイルを行いました。<br>
+includeフォルダ, libフォルダ, platformio.iniファイル, srcフォルダ
 
 ## includeフォルダ
 特に使っていません。
