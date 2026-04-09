@@ -13,7 +13,7 @@
 - 購入 → 秋月電子通商　様やcorestaff　様で購入しました。一部のパーツはAmazonで購入しました。
 - 基板 → SnapMagicなどでパーツのデータを収集し、KiCADで回路図及びPCB基板を設計後、JLCPCBに発注しました。
 - 実装 → ホットプレートやペーストはんだを用いて表面実装しました。
-<br>
+
 詳細は[control-boardフォルダ]()をご覧ください。
 
 ## フレーム
@@ -36,11 +36,11 @@
 
 ## 制御コード(フライトコントローラ：ドローン側)
 - VSCodeでコーディングし、VSCodeの拡張機能であるPlatformIOでコンパイルとビルドを行いました。
-<br>
+
 詳細は[firmwareフォルダ]()をご覧ください。
 
 ## 制御コード(プロポーショナルコントロール送信機：スマホアプリ側)
 - MIT App Inventorというブラウザタイプのアプリ開発ツールを用いてスマホをドローンのプロポにしました。
-<br>
-詳細は別のリポジトリ[Example_MITAppInventor_for_DroneController](https://github.com/harukiayukawa-source/Example_usingMITAppInventor_Drone_Controller)をご覧ください。
+
+詳細は別のリポジトリ[Example_MITAppInventor_for_DroneController](https://github.com/Haruki-Ayukawa/Example_MITAppInventor_for_DroneController/tree/main)をご覧ください。
 
