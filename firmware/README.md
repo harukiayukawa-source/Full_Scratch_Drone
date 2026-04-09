@@ -1,18 +1,19 @@
 # firmwareフォルダの中身について
 ## drone_PID_1フォルダ
 VSCode内の拡張機能「PlatformIO」を利用してコーディング・ビルド・コンパイルを行いました。<br>
-includeフォルダ, libフォルダ, platformio.iniファイル, srcフォルダ
+1_includeフォルダ, 2_libフォルダ, 3_platformio.iniファイル, 4_srcフォルダが入っています。<br>
+以下その説明
 
-## includeフォルダ
+## 1_includeフォルダ
 特に使っていません。
 
-## libフォルダ
+## 2_libフォルダ
 特に使っていません。
 
-## platformio.iniファイル
+## 3_platformio.iniファイル
 書き込み先のボード種やシリアル通信のbps、インクルードするライブラリを指定するファイルです。
 
-## srcフォルダ
+## 4_srcフォルダ
 コードの中身になります。<br>
 .cppファイルは実際の関数の中身が書かれています。<br>
 .hファイルは関数・定数の宣言や必要な外部ライブラリのインクルードが書かれています。<br>
